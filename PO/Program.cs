@@ -1,4 +1,4 @@
-﻿
+
 
 using System;
 
@@ -119,7 +119,7 @@ namespace zadania
 
 
             // double powierzchnia = 100, osoby = 10;
-            // double gestoscZaludnienia = osoby/powierzchnia;
+            // double gestosc= osoby/powierzchnia;
             // Console.WriteLine(gestosc);
 
         }
